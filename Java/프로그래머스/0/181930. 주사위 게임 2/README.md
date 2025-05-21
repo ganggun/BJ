@@ -1,10 +1,10 @@
 # [level 0] 주사위 게임 2 - 181930 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181930) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181930?language=java) 
 
 ### 성능 요약
 
-메모리: 4.42 MB, 시간: 0.01 ms
+메모리: 69.4 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 21일 23:23:25
+2025년 05월 21일 23:26:02
 
 ### 문제 설명
 
