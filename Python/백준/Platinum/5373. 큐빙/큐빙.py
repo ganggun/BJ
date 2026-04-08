@@ -56,17 +56,11 @@ for i in range(a):
     dx = [[2, 2, 2], [2, 1, 0], [0, 1, 2], [0, 0, 0]]
     dy = [[2, 1, 0], [0, 0, 0], [2, 2, 2], [0, 1, 2]]
     u = [olst, blst, rlst, glst]
-    u.reverse()
-    d = u[:]
-    u.reverse()
+    d = list(reversed(u))
     f = [ylst, glst, wlst, blst]
-    f.reverse()
-    b = f[:]
-    f.reverse()
+    b = list(reversed(f))
     l = [rlst, ylst, olst, wlst]
-    l.reverse()
-    r = l[:]
-    l.reverse()
+    r = list(reversed(l))
     b1=int(input())
     n=list(map(str,input().split()))
     for j in range(b1):
